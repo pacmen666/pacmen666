@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pacmen666 (PengCheng)
+- 👋 Hi, I’m @pacmen666
 - 👀 I’m interested in AI Agent & Workflow Automation, Machine Learning, Path Optimization, Computer Vision, Agile Development
 - 🌱 I’m currently learning Path Optimization Algorithms, Kunpeng Computing Architecture, Deep Learning, Coze Agent Development
 - 💞️ I’m looking to collaborate on AI Agent landing projects, automation tools, ML algorithm research, agile software development
