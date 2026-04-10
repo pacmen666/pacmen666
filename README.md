@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI Agent landing projects, automation tools, ML algorithm research, agile software development
 - 📫 How to reach me: pczhende6@outlook.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: Built Coze automation tool to process 500+ video materials in seconds; made IELTS vocab-embedded Smart Snake; won 2nd prize in Huawei ICT Competition (Macau)
+- ⚡ Fun fact: Built Coze automation tool to process 500+ video materials in seconds; made IELTS vocab-embedded Smart Snake; won 2025-2026 2nd prize in Huawei ICT Competition- computing track(Macau)
 
 ![Python]
 ![C/C++]
