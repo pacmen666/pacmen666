@@ -22,7 +22,6 @@
 - Job opportunities
 
 📫 How to reach me: pczhende6@outlook.com
-😄 Pronouns: He/Him
 
 ⚡ Fun fact
 - Built Coze automation tool for 500+ video processing
